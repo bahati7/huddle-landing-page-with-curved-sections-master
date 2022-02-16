@@ -338,6 +338,9 @@ section .section_content{
         gap: 5rem;
          
      }
+	  .ourstats .statstwo{
+         margin-top: 2rem;
+     }
      .ourstats p{
         font-size: 3rem;
         
