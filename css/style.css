@@ -282,7 +282,7 @@ section .section_titles{
 }
 section .section_content{
   padding-top: 1rem;
-  line-height: 1.5rem;
+  line-height: 1.8rem;
   color: var(--GrayishBlue);
   font-size: 1.2rem;
 }
